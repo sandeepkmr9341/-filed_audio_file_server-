@@ -9,7 +9,7 @@ This is Test challenge by filed
  
     1. clone the code in a directory
       
-            git clone https://github.com/sahasrara62/filed_audio_file_server.git
+            git clone https://github.com/sandeepkmr9341/-filed_audio_file_server-.git
     2. go in the directory `cd filed_audio_file_server`
     3. install all project requirements, use command
         `python -m pipenv install -r requirements.txt`
